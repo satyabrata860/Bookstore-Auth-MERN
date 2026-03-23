@@ -354,8 +354,6 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## ⭐ Show Your Support
-
 Give a ⭐️ if this project helped you or if you find it interesting!
 ---
 
