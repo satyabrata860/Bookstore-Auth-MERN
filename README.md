@@ -342,7 +342,7 @@ Authorization: Bearer <your_jwt_token>
 
 <div align="center">
 
-### Niladri Chatterjee
+### Satyabrata Pradhan
 
 **Full Stack Developer** | MERN Stack Specialist
 
